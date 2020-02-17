@@ -34,5 +34,4 @@
         echo "xsbkc";
         echo "xgtuq";
         echo "dmmsm";
-        echo "wcmbo";
 ?>
